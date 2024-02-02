@@ -35,3 +35,13 @@ body {
    background-size: cover;
    height: 90vh;
 }
+
+.secondhomeback {
+  background: url('/groupphoto.png');
+ background-position: contain;
+ background-attachment: fixed;
+ background-size: cover;
+ height: 20vh;
+}
+
+

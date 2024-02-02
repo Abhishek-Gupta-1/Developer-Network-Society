@@ -9,8 +9,8 @@ const Dashboard = () => {
 
                 <div className="flex w-full  justify-center mb-6 ">
                     <div className='flex-4 text-center font-black text-7xl tracking-wide'>
-                        <h1 className='text-white mr-3'>Welcome to </h1>
-                        <h1 className='text-[#086cec] mr-3'>Developer Network Society</h1>
+                        <h1 className='text-[#086cec] mr-3'>Welcome to </h1>
+                        <h1 className='text-white mr-3'>Developer Network Society</h1>
                     </div>
                 </div>
 

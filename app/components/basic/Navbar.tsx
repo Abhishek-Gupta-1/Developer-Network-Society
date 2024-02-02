@@ -16,7 +16,7 @@ export default function Navbar() {
     return (
 
 
-        <div className="flex flex-wrap place-items-center fixed w-full mt-0 pt-0 ">
+        <div className="z-20 flex flex-wrap place-items-center fixed w-full mt-0 pt-0 ">
             <section className="relative mx-auto w-full">
                 {/* navbar */}
                 <nav className="flex justify-between bg-[#086cec] text-white h-20">

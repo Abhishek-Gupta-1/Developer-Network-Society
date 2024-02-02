@@ -4,8 +4,8 @@ import TypewriterComponent from 'typewriter-effect'
 
 const Bgimage = () => {
     return (
-        <div className="homeback">
-            <div className="h-full w-full  flex flex-col justify-center items-center border">
+        <div className="secondhomeback">
+            <div className="  flex flex-col justify-center items-center border">
             </div>
         </div>
 

@@ -1,11 +1,12 @@
 import { Component, useState } from 'react'
 import AboutUs from './components/AboutUs'
-
-
 import Bgimage from './components/Bgimage'
-
-
 import Dashboard from '@/app/components/Dashboard'
+import Mentors from './components/Mentors'
+import {Footer} from './components/basic/Footer'
+import Gallery from './components/Gallery'
+
+
 export default async function Home() {
 
   return (
@@ -17,6 +18,11 @@ export default async function Home() {
         
        <AboutUs />
        <Bgimage />
+       <Mentors />
+       <Bgimage />
+       <Gallery />
+       <Bgimage />
+       <Footer />
        
         
 

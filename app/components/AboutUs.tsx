@@ -19,7 +19,7 @@ const AboutUs = () => {
                         <p className='text-center font-bold text-4xl text-blue uppercase p-3'>
                             About Us
                         </p>
-                        <hr className='class=" dark:bg-gray-700' />
+                        <hr className='bg-slate-900 h-0.5' />
 
 
                     </div>
@@ -34,7 +34,7 @@ const AboutUs = () => {
                 <div className='lg:w-1/2  flex justify-center items-center'>
 
                     <div className=' p-8'>
-                        <p className=' text-lg'>The DNS  Club started its journey on  2016. Its
+                        <p className=' text-lg '>The DNS  Club started its journey on  2016. Its
                             major objective is to motivate students' interest in learning
                             various technologies and to obtain information about how
                             technology will be used to project work. The club's goal is to
