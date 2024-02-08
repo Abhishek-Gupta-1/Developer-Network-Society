@@ -175,7 +175,7 @@ export const Footer = () => {
             </a>
           </div>
           <div>
-            <a href=""><p>Developed with </p></a>
+            <p>Developed with ❤️ by <a href="https://abhishekmdu.vercel.app/" target='_blank'>Abhishek Gupta</a></p>
           </div>
         </div>
       </div>
