@@ -5,7 +5,7 @@ import Dashboard from '@/app/components/Dashboard'
 import Mentors from './components/Mentors'
 import { Footer } from './components/basic/Footer'
 import Gallery from './components/Gallery'
-import Contact from './components/Contact'
+// import Contact from './components/Contact'
 
 
 export default async function Home() {
@@ -25,7 +25,7 @@ export default async function Home() {
 
 
         <Footer />
-        {/* <Contact />  */}
+        
 
       </div>
     </main>
