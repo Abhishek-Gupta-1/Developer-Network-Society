@@ -11,10 +11,10 @@ const Mentors = () => {
 
 
 
-        <section className="bg-black ">
+        <section className="bg-black pt-16">
             <div className="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-6">
                 <div className="mx-auto mb-8 max-w-screen-sm lg:mb-16">
-                    <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">
+                    <h2 className="mb-4 pb-8 text-6xl tracking-tight font-bold text-gray-900 dark:text-white">
                         Our Team
                     </h2>
                 </div>

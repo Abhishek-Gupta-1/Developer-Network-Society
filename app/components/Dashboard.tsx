@@ -5,7 +5,7 @@ import TypewriterComponent from 'typewriter-effect'
 const Dashboard = () => {
     return (
         <div className="homeback">
-            <div className="h-full w-full  mt-20 flex flex-col justify-center items-center border">
+            <div className="h-full w-full bg-black/40 mt-20 flex flex-col justify-center items-center border">
 
                 <div className="flex w-full  justify-center mb-6 ">
                     <div className='flex-4 text-center font-black text-7xl tracking-wide'>

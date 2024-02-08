@@ -9,7 +9,7 @@ const Gallery = () => {
     return (
         <>
     <div className="mx-auto mb-8 max-w-screen-sm lg:mb-16 pt-16 text-center">
-      <h2 className="mb-4 text-5xl tracking-tight font-extrabold text-gray-900 dark:text-white">
+      <h2 className="mb-4 text-6xl tracking-tight font-bold text-gray-900 dark:text-white">
         Events
       </h2>
       </div>
