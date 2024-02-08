@@ -6,6 +6,7 @@ import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import { Fragment } from 'react'
 import { Menu, Transition } from '@headlessui/react'
+import Contact from '../Contact'
 
 export default function Navbar() {
     const router = useRouter();
@@ -60,7 +61,7 @@ export default function Navbar() {
                             {
 
                                 <li>
-                                    <Link className="hover:text-gray-200 cursor-pointer" href="/dashboard">
+                                    <Link className="hover:text-gray-200 cursor-pointer" href="/Contact">
                                         Contact Us
                                     </Link>
                                 </li>

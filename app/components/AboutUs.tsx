@@ -34,18 +34,15 @@ const AboutUs = () => {
                 <div className='lg:w-1/2  flex justify-center items-center'>
 
                     <div className=' p-8'>
-                        <p className=' text-lg '>The DNS  Club started its journey on  2016. Its
-                            major objective is to motivate students' interest in learning
-                            various technologies and to obtain information about how
-                            technology will be used to project work. The club's goal is to
-                            encourage students to solve various challenging problems using
-                            demanding technologies which include Python, Java, C, C++,
-                            etc. Our approach will help students to become Industry Ready.
-                            This will boost them to get Job. The DNS Club actively
-                            organizes various activities like Online Coding Contest,
-                            Online Quiz Contest, etc. Other events like Expert's Talk,
-                            Alumni Talk, and Hands-on practical workshops for various
-                            programming basics are planned for the future.</p>
+                        <p className=' text-lg '>Welcome to Developer Network Society — A hub for 
+                        tech enthusiasts! Our mission is to ignite students curiosity in diverse technologies, 
+                        preparing them for industry challenges. With a focus on Python, Java, C, C++, and 
+                        more, DNS cultivates a problem-solving mindset, ensuring members are industry-ready. 
+                        Engage in our Online Coding and Quiz Contests for a thrilling experience. 
+                        Attend Experts Talks, Alumni Discussions, and hands-on workshops to enhance 
+                        your programming skills. DNS is not just a club; its a platform that propels you 
+                        toward a successful career. Join us as we embrace innovation, learning, and a thriving 
+                        tech community!</p>
                     </div>
 
                 </div>

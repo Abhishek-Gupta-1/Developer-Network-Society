@@ -3,13 +3,13 @@ import Link from 'next/link'
 import React from 'react'
 
 export const Footer = () => {
-    return (
-      <footer className="bg-[#e1f1fa]">
+  return (
+    <footer className="bg-[#e1f1fa]">
       <div className="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
         <div className="md:flex md:justify-between">
           <div className="mb-6 md:mb-0">
             <a href="/#" className="flex items-center">
-            <Image src="/dns.png" alt="DNS" className='bg-transparent' width={150} height={100} />
+              <Image src="/dnsdark.png" alt="DNS" className='bg-transparent' width={150} height={100} />
             </a>
           </div>
           <div className="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
@@ -25,7 +25,7 @@ export const Footer = () => {
                 </li>
                 <li>
                   <a href="#" className="hover:underline">
-                   Linkedin
+                    Linkedin
                   </a>
                 </li>
               </ul>
@@ -177,5 +177,5 @@ export const Footer = () => {
         </div>
       </div>
     </footer>
-        )
+  )
 }

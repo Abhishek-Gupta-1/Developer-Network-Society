@@ -3,7 +3,7 @@ import AboutUs from './components/AboutUs'
 import Bgimage from './components/Bgimage'
 import Dashboard from '@/app/components/Dashboard'
 import Mentors from './components/Mentors'
-import {Footer} from './components/basic/Footer'
+import { Footer } from './components/basic/Footer'
 import Gallery from './components/Gallery'
 import Contact from './components/Contact'
 
@@ -14,22 +14,18 @@ export default async function Home() {
     <main className="flex min-h-screen flex-col">
       <div className='border lg:max-w-[1600px]'>
         <div className='w-full'>
-        <Dashboard />
+          <Dashboard />
         </div>
-        
-       <AboutUs />
-       <Bgimage />
-       <Mentors />
-       <Bgimage />
-       <Gallery />
-       
-       <Bgimage />
-       <Footer />
-       <Contact />
 
-       
-        
+        <AboutUs />
 
+        <Mentors />
+
+        <Gallery />
+
+
+        <Footer />
+        {/* <Contact />  */}
 
       </div>
     </main>

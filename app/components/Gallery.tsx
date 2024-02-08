@@ -12,9 +12,6 @@ const Gallery = () => {
       <h2 className="mb-4 text-5xl tracking-tight font-extrabold text-gray-900 dark:text-white">
         Events
       </h2>
-     
-
-
       </div>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
                 
