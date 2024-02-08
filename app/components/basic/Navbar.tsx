@@ -6,7 +6,6 @@ import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import { Fragment } from 'react'
 import { Menu, Transition } from '@headlessui/react'
-import Contact from '../Contact'
 
 export default function Navbar() {
     const router = useRouter();

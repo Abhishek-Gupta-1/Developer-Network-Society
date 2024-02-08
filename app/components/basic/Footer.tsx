@@ -174,6 +174,9 @@ export const Footer = () => {
               <span className="sr-only">Dribbble account</span>
             </a>
           </div>
+          <div>
+            <a href=""><p>Developed with </p></a>
+          </div>
         </div>
       </div>
     </footer>
