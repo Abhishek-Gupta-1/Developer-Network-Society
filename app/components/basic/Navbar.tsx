@@ -34,15 +34,15 @@ export default function Navbar() {
                                 </Link>
                             </li>
                             <li>
-                                <Link className="hover:text-gray-200 " href="/searchprojects">
+                                <Link className="hover:text-gray-200 " href="/Mentors">
                                     Our Mentors
                                 </Link>
                             </li>
                             {
 
                                 <li>
-                                    <Link className="hover:text-gray-200 cursor-pointer" href="/uploadproject">
-                                        Ongoing Projects
+                                    <Link className="hover:text-gray-200 cursor-pointer" href="#gallery-section">
+                                        Gallery
                                     </Link>
                                 </li>
                             }
@@ -51,7 +51,7 @@ export default function Navbar() {
                             {
 
                                 <li>
-                                    <Link className="hover:text-gray-200 cursor-pointer" href="/dashboard">
+                                    <Link className="hover:text-gray-200 cursor-pointer" href="#about-section">
                                         About Us
                                     </Link>
                                 </li>
@@ -66,7 +66,7 @@ export default function Navbar() {
                                 </li>
                             }
                         </ul>
-                        </div>
+                    </div>
                 </nav>
             </section>
         </div>

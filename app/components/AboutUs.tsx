@@ -12,7 +12,7 @@ const AboutUs = () => {
 
     return (
 
-        <section>
+        <section id="about-section">
             <div className='pt-4 pb-0 mb-0 bg-black text-white'>
                 <div className='sections objective-sec' >
                     <div className='w-4/5 mx-auto mt-12'>
